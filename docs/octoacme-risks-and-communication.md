@@ -49,6 +49,6 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security Champion and Security on-call
+- For security incidents, follow the security incident runbook and notify Security Champion immediately; escalate to Security on-call for after-hours or critical issues
 - For deployment/infrastructure issues, escalate to DevOps Engineer and operations team
 - For customer-impacting issues, notify Customer Support Lead immediately

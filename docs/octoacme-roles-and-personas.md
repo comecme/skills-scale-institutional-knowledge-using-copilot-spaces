@@ -124,7 +124,7 @@ Owns project documentation, ensures clarity and currency for all project artifac
 ## DevOps Engineer
 
 ### Role Summary
-Enables rapid, reliable deployment, CI/CD, and reliable environments for testing and production.
+Enables rapid, reliable deployment, CI/CD, and stable environments for testing and production.
 
 ### Responsibilities
 - Maintain CI/CD pipelines
