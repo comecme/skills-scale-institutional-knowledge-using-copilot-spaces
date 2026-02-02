@@ -7,6 +7,12 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Daily standups (15 min) — focus on progress, blockers, dependencies
 - Weekly delivery sync — show progress, updates, and flagged risks
 - Demo/Review at the end of each sprint or milestone
+- Cross-functional touchpoints as needed:
+  - UX review sessions for design validation
+  - Documentation sync with Technical Writer
+  - Security checkpoint with Security Champion
+  - DevOps coordination for deployment and infrastructure
+  - Support feedback review with Customer Support Lead
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
@@ -22,6 +28,11 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- Cross-functional quality checks:
+  - UX Designer validates usability and accessibility
+  - Technical Writer reviews user-facing content and documentation
+  - Security Champion reviews security-sensitive changes
+  - DevOps Engineer ensures deployment and monitoring readiness
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -38,3 +49,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] UX design handoffs tracked on project board
+- [ ] Documentation updates assigned and tracked
+- [ ] Security reviews scheduled for high-risk changes
+- [ ] DevOps notified of infrastructure or deployment changes

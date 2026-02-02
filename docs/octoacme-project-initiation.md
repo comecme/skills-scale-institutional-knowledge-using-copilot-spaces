@@ -18,6 +18,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+  - Consider: Developers, Product Managers, Project Managers, UX Designer, Technical Writer, DevOps Engineer, Customer Support Lead, Security Champion
 
 ## Project One-pager Template
 - Project name:
@@ -35,6 +36,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Identify cross-functional team needs (UX, Security, DevOps, Documentation, Support)
 
 ## Decision Gate
 Move to planning when:
