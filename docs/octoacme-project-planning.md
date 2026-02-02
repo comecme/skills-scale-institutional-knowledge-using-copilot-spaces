@@ -15,6 +15,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Engage cross-functional roles early:
+   - UX Designer: for user experience design and usability considerations
+   - Technical Writer: for documentation planning and content timeline
+   - DevOps Engineer: for CI/CD and infrastructure requirements
+   - Customer Support Lead: for support readiness and user communication
+   - Security Champion: for threat modeling and secure design review
 
 ## Backlog Item Template
 - Title:
@@ -41,3 +47,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX design approach and timeline confirmed (if applicable)
+- [ ] Documentation plan created with Technical Writer
+- [ ] Security review scheduled with Security Champion
+- [ ] CI/CD and infrastructure needs reviewed with DevOps Engineer
+- [ ] Support readiness plan discussed with Customer Support Lead

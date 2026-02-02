@@ -75,6 +75,117 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## UX Designer
+
+### Role Summary
+Designs user interfaces and experiences, bridges communication between product and engineering to ensure solutions are user-centric.
+
+### Responsibilities
+- Create wireframes, prototypes, and workflows
+- Advocate for usability/accessibility standards
+- Participate in product planning and design reviews
+- Conduct user research and testing
+
+### Goals
+- Increase customer satisfaction
+- Ensure accessible, intuitive interfaces
+- Reduce rework from usability gaps
+
+### Typical Communication
+- Design walkthroughs, usability feedback, review of design handoffs
+
+### Interactions
+- Works closely with Product Managers, Developers, and QA
+
+---
+
+## Technical Writer
+
+### Role Summary
+Owns project documentation, ensures clarity and currency for all project artifacts—internal and external.
+
+### Responsibilities
+- Write and maintain user guides, API references, onboarding documents
+- Collaborate on release notes and in-app help
+- Review and update documentation in sync with releases
+
+### Goals
+- Deliver accessible, accurate documentation
+- Reduce support tickets due to poor docs
+
+### Typical Communication
+- Works with PM, Developers, QA, and Support
+
+### Interactions
+- Interacts with all team members to capture and disseminate information
+
+---
+
+## DevOps Engineer
+
+### Role Summary
+Enables rapid, reliable deployment, CI/CD, and reliable environments for testing and production.
+
+### Responsibilities
+- Maintain CI/CD pipelines
+- Manage deployment scripts, infrastructure-as-code
+- Monitor system health, automate routine ops
+
+### Goals
+- Reduce deployment risk
+- Accelerate engineering velocity
+
+### Typical Communication
+- Coordination with Developers, QA, and Project Manager for release cycles
+
+### Interactions
+- Supports the entire delivery team
+
+---
+
+## Customer Support Lead
+
+### Role Summary
+Acts as the main interface between the project team and end-users for feedback, issues, and questions.
+
+### Responsibilities
+- Collect, triage, and share customer feedback
+- Escalate incidents, contribute to support docs
+- Inform PM of recurring pain-points
+
+### Goals
+- Drive issue resolution and customer satisfaction
+- Improve product through user insights
+
+### Typical Communication
+- Weekly incident/feedback review with project team
+
+### Interactions
+- Collaborates with PM, PdM, and Technical Writer
+
+---
+
+## Security Champion
+
+### Role Summary
+Proactively integrates security best practices across the development lifecycle.
+
+### Responsibilities
+- Run threat model and secure code reviews
+- Guide secure design and incident response
+- Educate team on security risks
+
+### Goals
+- Minimize vulnerabilities, compliance issues
+
+### Typical Communication
+- Security reviews, incident post-mortems
+
+### Interactions
+- Works with Developers, Project Manager, Ops
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.

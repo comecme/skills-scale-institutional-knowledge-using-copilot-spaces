@@ -16,6 +16,12 @@ After each sprint, release, or important milestone. Also after incidents.
 - Timebox: 45–75 minutes depending on team size
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- Include cross-functional perspectives:
+  - Invite UX Designer to discuss design process improvements
+  - Include Technical Writer for documentation workflow feedback
+  - Engage DevOps Engineer for deployment and infrastructure learnings
+  - Invite Customer Support Lead to share user feedback and support insights
+  - Include Security Champion for security process improvements
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
